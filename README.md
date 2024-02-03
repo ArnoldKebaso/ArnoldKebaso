@@ -26,7 +26,7 @@ I am a dedicated software engineer freelancer with a track record of delivering 
 
 📫 Contact
 LinkedIn: ArnoldKebaso
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 Email: [arnoldkebaso8@gmail.com]
 Feel free to connect with me on LinkedIn or reach out via email. I am open to collaborations, discussions, and exploring new opportunities.
 
