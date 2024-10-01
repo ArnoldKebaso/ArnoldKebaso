@@ -1,37 +1,17 @@
-### Hi there 👋 I am Arnold Kebaso a Full-Stack Web Developer & Software Engineer 
-my portfolio link:  [https://arnoldkebaso.github.io/my_portfolio/]
-Welcome to my GitHub profile! I am Arnold Kebaso, a passionate and versatile Full-Stack Web Developer with a solid background in a variety of technologies. My expertise lies in crafting robust and scalable web applications, and I have a keen interest in software engineering and iOS/macOS development.
+### Hi there 👋 I'm Arnold Kebaso
+I'm a Full-Stack Web Developer & Software Engineer with a passion for building scalable and efficient web applications. I specialize in both front-end and back-end development, with experience in iOS/macOS platforms as well.
 
+🌟 **Skills**
+- **Languages**: JavaScript (Node.js, React, Express), Python, C++, C, Rust, Java, Swift
+- **Databases**: MongoDB, MySQL
+- **Web Technologies**: HTML, CSS, React
+- **iOS/macOS Development**: Swift
 
+🚀 **Projects**
+- [E-Commerce Website](https://arnoldkebaso.github.io/E-commerce-website/): A trendy clothes showcase built with modern web technologies.
 
-🚀 Skills
-Languages: JavaScript (Node.js, React, Express), Python, C++, C, Rust, Java, Swift
-Databases: MongoDB, MySQL
-Web Technologies: HTML, CSS
-iOS/macOS Development: Swift
-💻 Technical Proficiency
-Full-Stack Development: Proficient in building end-to-end web applications using Node.js, React, and Express.
-Database Management: Experienced with MongoDB for NoSQL and MySQL for relational database management.
-Frontend Technologies: Well-versed in crafting responsive and visually appealing user interfaces with HTML, CSS, and React.
-iOS/macOS Development: Skilled in Swift, developing applications for both iOS and macOS platforms.
-Programming Languages: A diverse skill set that includes Python, C++, C, Rust, JavaScript, and Java.
-🌐 Projects
-Here are a few noteworthy projects I've worked on:
-E-Commerce website: https://arnoldkebaso.github.io/E-commerce-website/
+📫 **Get in touch**
+- LinkedIn: [ArnoldKebaso](https://www.linkedin.com/in/arnoldkebaso/)
+- Email: [arnoldkebaso8@gmail.com](mailto:arnoldkebaso8@gmail.com)
 
-Description: Brief description of the project.
-An E-commerce website showcasing trending clothes.
-Technologies: List of technologies used.
-[(https://arnoldkebaso.github.io/E-commerce-website/)] : 
-🌟 Professional Experience
-I am a dedicated software engineer freelancer with a track record of delivering high-quality solutions. My commitment to staying up-to-date with the latest technologies allows me to bring innovative and efficient solutions to the projects I undertake.
-
-📫 Contact
-LinkedIn: ArnoldKebaso
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-Email: [arnoldkebaso8@gmail.com]
-Feel free to connect with me on LinkedIn or reach out via email. I am open to collaborations, discussions, and exploring new opportunities.
-
-📊 GitHub Stats
-
-
+Check out my [portfolio](https://arnoldkebaso.github.io/my_portfolio/) for more!
