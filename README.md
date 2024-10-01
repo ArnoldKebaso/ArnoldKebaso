@@ -11,7 +11,7 @@ I'm a Full-Stack Web Developer & Software Engineer with a passion for building s
 - [E-Commerce Website](https://arnoldkebaso.github.io/E-commerce-website/): A trendy clothes showcase built with modern web technologies.
 
 📫 **Get in touch**
-- LinkedIn: [ArnoldKebaso](https://www.linkedin.com/in/arnoldkebaso/)
+- LinkedIn: [ArnoldKebaso](https://www.linkedin.com/in/arnold-kebaso-505982256/)
 - Email: [arnoldkebaso8@gmail.com](mailto:arnoldkebaso8@gmail.com)
 
 Check out my [portfolio](https://arnoldkebaso.github.io/my_portfolio/) for more!
