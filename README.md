@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋 I'm Arnold Kebaso
-I'm a Full-Stack Web Developer & Software Engineer with a passion for building scalable and efficient web applications. I specialize in both front-end and back-end development, with experience in iOS/macOS platforms as well.
+I'm a Full-Stack Web Developer & Software Engineer with a passion for building scalable and efficient web applications. I specialize in both front-end and back-end development.
 
 🚀 **Projects**
 - [E-Commerce Website](https://arnoldkebaso.github.io/E-commerce-website/): A trendy clothes showcase built with modern web technologies.
